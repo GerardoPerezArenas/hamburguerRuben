@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RetroBurger POS</string>
+    <string name="zones_title">Zonas</string>
+    <string name="tables_title">Mesas</string>
+    <string name="tables_placeholder">(Placeholder T2: Al tocar zona desde la lista se muestra aquí el título y se avanzará a Mesas/Para llevar)</string>
+
+    <!-- Login -->
+    <string name="login_title">RetroBurger POS</string>
+    <string name="login_hint_user">Usuario</string>
+    <string name="login_hint_pass">Contraseña</string>
+    <string name="login_btn">Iniciar Sesión</string>
+    <string name="login_help">Usuario: admin/1234 o camarero/1234</string>
+
+    <!-- Tabs -->
+    <string name="tab_comidas">COMIDAS</string>
+    <string name="tab_bebidas">BEBIDAS</string>
+    <string name="btn_carta">Carta</string>
+</resources>

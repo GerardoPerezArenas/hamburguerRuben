@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_height="80dp"
+    android:layout_margin="6dp"
+    android:background="@drawable/table_cell_bg">
+
+    <TextView
+        android:id="@+id/tvNumber"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/table_text"
+        android:text="1" />
+
+</FrameLayout>

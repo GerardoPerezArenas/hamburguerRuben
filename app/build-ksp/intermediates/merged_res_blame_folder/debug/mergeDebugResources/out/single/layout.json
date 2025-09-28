@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.gerardo.myapplication.app-mergeDebugResources-43:/layout/activity_zones.xml",
+        "source": "com.gerardo.myapplication.app-main-46:/layout/activity_zones.xml"
+    },
+    {
+        "merged": "com.gerardo.myapplication.app-mergeDebugResources-43:/layout/activity_products.xml",
+        "source": "com.gerardo.myapplication.app-main-46:/layout/activity_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-mergeDebugResources-43:\\layout\\item_table.xml",
+        "source": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-main-46:\\layout\\item_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-mergeDebugResources-43:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.gerardo.myapplication.app-mergeDebugResources-43:/layout/item_product.xml",
+        "source": "com.gerardo.myapplication.app-main-46:/layout/item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-mergeDebugResources-43:\\layout\\activity_tables.xml",
+        "source": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-main-46:\\layout\\activity_tables.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-mergeDebugResources-43:\\layout\\activity_zones.xml",
+        "source": "C:\\Users\\gerardo.perez\\.gradle\\daemon\\8.13\\com.gerardo.myapplication.app-main-46:\\layout\\activity_zones.xml"
+    }
+]
