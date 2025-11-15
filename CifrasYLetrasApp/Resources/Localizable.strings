@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  CifrasYLetrasApp
+
+  Cadenas de texto localizadas para la aplicación
+*/
+
+// MARK: - Títulos
+"app_title" = "Cifras y Letras";
+"choose_mode_title" = "Elige modo de juego";
+"select_difficulty_title" = "Selecciona dificultad";
+"results_title" = "Resultados";
+"settings_title" = "Ajustes";
+"stats_title" = "Estadísticas";
+
+// MARK: - Botones
+"play_quick" = "Jugar rápido";
+"choose_mode" = "Elegir modo";
+"view_stats" = "Ver estadísticas";
+"beginner" = "Principiante";
+"intermediate" = "Intermedio";
+"professional" = "Profesional";
+"numbers" = "Cifras";
+"letters" = "Letras";
+"validate_solution" = "Validar solución";
+"validate_word" = "Validar palabra";
+"delete_letter" = "Borrar letra";
+"clear_word" = "Limpiar palabra";
+"play_again" = "Volver a jugar";
+"go_to_menu" = "Ir al menú";
+"close" = "Cerrar";
+"cancel" = "Cancelar";
+"settings" = "Ajustes";
+
+// MARK: - Mensajes de ayuda
+"use_each_number_once" = "Usa cada cifra como máximo una vez.";
+"enter_valid_expression" = "Introduce una expresión válida usando las cifras disponibles.";
+"write_longest_word" = "Escribe la palabra más larga que puedas con las letras mostradas.";
+"time_remaining" = "Tienes %d segundos.";
+"current_level" = "Nivel actual: %@";
+
+// MARK: - Mensajes de error
+"invalid_expression" = "Expresión no válida.";
+"number_not_available" = "Has usado una cifra que no está disponible.";
+"invalid_word" = "Palabra no válida.";
+"word_already_used" = "La palabra ya ha sido usada.";
+"time_up" = "El tiempo ha terminado.";
+
+// MARK: - Estadísticas
+"total_score" = "Puntuación total";
+"best_score" = "Mejor puntuación";
+"games_played" = "Partidas jugadas";
+"average_score" = "Promedio";
+"numbers_played" = "Cifras jugadas";
+"letters_played" = "Letras jugadas";
+"recent_history" = "Historial reciente";
+
+// MARK: - Modos de juego
+"numbers_description" = "Alcanza el número objetivo usando operaciones";
+"letters_description" = "Forma la palabra más larga posible";
+
+// MARK: - Dificultad
+"beginner_description" = "Más tiempo, retos sencillos";
+"intermediate_description" = "Equilibrio entre tiempo y dificultad";
+"professional_description" = "Poco tiempo, retos complejos";
+
+// MARK: - Resultados
+"excellent" = "¡Excelente!";
+"very_good" = "¡Muy bien!";
+"good" = "¡Bien!";
+"can_improve" = "Puedes mejorar";
+"try_again" = "Inténtalo de nuevo";
+"points_obtained" = "Puntos obtenidos";
+"your_result" = "Tu resultado";
+"target" = "Objetivo";
+"difference" = "Diferencia";
+"approximate_solutions" = "Soluciones aproximadas";
+"your_words" = "Tus palabras";
+"longer_words_examples" = "Ejemplos de palabras más largas";
+"total_stats" = "Estadísticas totales";
